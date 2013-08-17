@@ -1,3 +1,10 @@
+THIS BUNDLE IS NOT SUPPORTED ANYMORE. USE [LMS42](https://github.com/lms42/SmirikCourseBundle) version
+=====
+
+
+
+
+
 CourseBundle
 ==========
 
